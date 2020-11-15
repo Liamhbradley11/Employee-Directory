@@ -29,7 +29,7 @@ The user will be able to search for specific employee in the search bar.
  https://liamhbradley11.github.io/Clicky-Game/
 
 ## Visuals
-![alt text](https://i.paste.pics/f8c9e415e22f5fde93a50fd095a1df30.png)
+![alt text](https://i.paste.pics/9b72c74b69314192e3096cc09cae7b49.png)
 
 
 ## License
