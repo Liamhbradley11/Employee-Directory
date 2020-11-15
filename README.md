@@ -26,7 +26,8 @@ The user will be able to search for specific employee in the search bar.
 * Random User API
 
 ## Website
- https://liamhbradley11.github.io/Clicky-Game/
+https://liamhbradley11.github.io/Employee-Directory/
+
 
 ## Visuals
 ![alt text](https://i.paste.pics/9b72c74b69314192e3096cc09cae7b49.png)
